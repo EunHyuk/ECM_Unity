@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DB48B60F-6725-82B1-66A5-D03CA92E7016}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Easy Character Movement/Scripts/Controllers/BaseCharacterController.cs">
+    <Files>
+      <File FileName="Assets/Easy Character Movement/Examples/Scripts/Components/KinematicRotate.cs" Line="54" Column="10" />
+      <File FileName="Assets/Easy Character Movement/Examples/Scripts/Common/Utils.cs" />
+      <File FileName="Assets/Easy Character Movement/Examples/Scripts/Controllers/DemoController.cs" />
+      <File FileName="Assets/Easy Character Movement/Scripts/Controllers/BaseCharacterController.cs" Line="95" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECM" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Easy Character Movement" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Common" expanded="True" />
+                    <Node name="Components" expanded="True" />
+                    <Node name="Controllers" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Scripts" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="BaseCharacterController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f4fd87e-ba69-4639-821b-1bf4730df7c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
